@@ -9,7 +9,7 @@ setuptools.setup(
     author="Nanaki",
     license='MIT',
     author_email="nanakidhanoa@gmail.com",
-    description="Decision Making using topsis (Python Package)",
+    description="Multi Criteria Decision Making using TOPSIS (Python Package)",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url = 'https://github.com/nanaki-dhanoa/Topsis.git',
