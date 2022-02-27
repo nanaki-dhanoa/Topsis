@@ -12,7 +12,7 @@ setuptools.setup(
     description="Decision Making using topsis (Python Package)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url = '',
+    url = 'https://github.com/nanaki-dhanoa/Topsis.git',
     download_url = '',
     packages=setuptools.find_packages(),
     install_requires=[            
