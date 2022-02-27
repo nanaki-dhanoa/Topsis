@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url = 'https://github.com/nanaki-dhanoa/Topsis.git',
-    download_url = '',
+    download_url = 'https://github.com/nanaki-dhanoa/Topsis/archive/refs/tags/v_0.01.zip',
     packages=setuptools.find_packages(),
     install_requires=[            
           'pandas',
