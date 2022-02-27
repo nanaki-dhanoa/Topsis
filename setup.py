@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='Topsis-Nanaki-101903195',  
-    version='0.1.0',
+    version='0.1.1',
     author="Nanaki",
     license='MIT',
     author_email="nanakidhanoa@gmail.com",
