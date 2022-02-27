@@ -11,9 +11,9 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS)
 ```pip install Topsis-Nanaki-101903195```
 
 ## How to use it ?
-Open terminal and move into directory where all your files are placed and the type :
-    python topsis.py "input.csv" "1,1,1,2" "+,+,+,-" "result.csv"
+Open terminal and move into directory where the inpyt files are placed and the type :
+    ```python -m Topsis-Nanaki-101903195.topsis "input.csv" "1,1,1,2" "+,+,+,-" "result.csv"```
 
 ## License 
 © 2022 
-This repository is licensed under the MIT license.See License for details.
+This repository is licensed under the MIT license. See License for details.
