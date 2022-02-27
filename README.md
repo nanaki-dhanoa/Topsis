@@ -11,7 +11,7 @@ solution. More details at [wikipedia](https://en.wikipedia.org/wiki/TOPSIS)
 ```pip install Topsis-Nanaki-101903195```
 
 ## How to use it ?
-Open terminal and move into directory where the inpyt files are placed and the type :
+Open terminal and move into directory where the inpyt files are placed and the type :\n 
     ```python -m Topsis-Nanaki-101903195.topsis "input.csv" "1,1,1,2" "+,+,+,-" "result.csv"```
 
 ## License 
